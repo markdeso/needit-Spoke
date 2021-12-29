@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>get_property_again</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Property again</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-29 00:40:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f780389807b04110391cf19d7c1ed07a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Property again</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit Spoke" source="x_187059_needit_sp">8fabdf4c07bc0110391cf19d7c1ed096</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Spoke">8fabdf4c07bc0110391cf19d7c1ed096</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_f780389807b04110391cf19d7c1ed07a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-29 00:40:48</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=f780389807b04110391cf19d7c1ed07a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=f780389807b04110391cf19d7c1ed07a"/>
+</record_update>

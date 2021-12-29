@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf75de7c8cefc011025fc075278cfc293</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8fabdf4c07bc0110391cf19d7c1ed096</scope_name>
+        <serialized_content>{"FlowDesigner:FDf75de7c8cefc011025fc075278cfc293":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDf75de7c8cefc011025fc075278cfc293.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"a35dc5d8-d9f5-4f2b-9d39-6ede94cdf9d7\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf75de7c8cefc011025fc075278cfc293\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-28 19:47:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb5de7c807fc0110391cf19d7c1ed093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf75de7c8cefc011025fc075278cfc293</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit Spoke" source="x_187059_needit_sp">8fabdf4c07bc0110391cf19d7c1ed096</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Spoke">8fabdf4c07bc0110391cf19d7c1ed096</sys_scope>
+        <sys_update_name>sys_complex_object_bb5de7c807fc0110391cf19d7c1ed093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-28 19:47:16</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
